@@ -15,10 +15,10 @@ install:
 
 script:
   - npm run generate
-  
+
 deploy:
   provider: pages
-  local-dir: public
+  local-dir: dist
   skip-cleanup: true
   target-branch: master
   repo: popcorn-morbihan/popcorn-morbihan.github.io
