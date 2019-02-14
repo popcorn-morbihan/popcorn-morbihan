@@ -1,0 +1,13 @@
+{
+  "name": "popcorn-morbihan",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popcorn-morbihan/popcorn-morbihan.git"
+  },
+  "author": "Nicolas LE CHENIC",
+  "bugs": {
+    "url": "https://github.com/popcorn-morbihan/popcorn-morbihan/issues"
+  },
+  "homepage": "https://github.com/popcorn-morbihan/popcorn-morbihan#readme"
+}
