@@ -8,7 +8,7 @@ Les objectifs de _Popcorn-Morbihan_ pour les développeurs freelances :
 
 - 📈 Etre un canal pour trouver des affaires sans commission ni intermédiaire.
 - 📗 Maitriser les fonctionnalités de la plateforme en contribuant à [la machine à Popcorn](https://github.com/popcorn-nantes/popcorn-machine).
-- 💬 Faire circuler les tuyaux boulot entre freelances. Pour cela il vous suffit de vous inscrire aux meetups de [Vannes Software Development](https://www.meetup.com/fr-FR/Vannes-Software-Development/?_locale=fr-FR). Vous receverez alors une invitation au slack du même groupe et à son chan `popcorn` !
+- 💬 Faire circuler les tuyaux boulot entre freelances. Pour cela il vous suffit de vous inscrire au groupe meetups de [Vannes Software Development](https://www.meetup.com/fr-FR/Vannes-Software-Development/?_locale=fr-FR). Vous receverez alors une invitation au slack du même groupe et à son chan `popcorn` !
 - 💪 Offrir une alternative locale aux _market places_ de freelances centralisées
 
 ## Créer son profil
