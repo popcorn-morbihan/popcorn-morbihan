@@ -31,8 +31,8 @@ mail: mail@mail.fr
 telephone:
 
 # REQUIS
-# l'image doit être ajoutée dans le dossier /static/images et faire moins de 100ko ! Sa hauteur affichée sur le site sera de 300px, elle s'adaptera comme elle peut au responsive avec du css.
-photo: /images/placeholder-5.png
+# l'image doit être ajoutée dans le dossier /public/images/photos et faire moins de 100ko ! Sa hauteur affichée sur le site sera de 300px, elle s'adaptera comme elle peut au responsive avec du css.
+photo: /images/photos/placeholder.png
 
 # REQUIS
 # Les domaines métiers que tu exerces **vu par tes client(e)s sans connaissances
