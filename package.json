@@ -1,13 +1,17 @@
 {
   "name": "popcorn-morbihan",
   "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/popcorn-morbihan/popcorn-morbihan.git"
-  },
+  "description": "popcorn",
   "author": "Nicolas LE CHENIC",
-  "bugs": {
-    "url": "https://github.com/popcorn-morbihan/popcorn-morbihan/issues"
+  "private": true,
+  "scripts": {
+    "dev": "popcorn",
+    "build": "popcorn build",
+    "start": "popcorn start",
+    "generate": "popcorn generate"
   },
-  "homepage": "https://github.com/popcorn-morbihan/popcorn-morbihan#readme"
+  "devDependencies": {
+    "popcorn-machine": "1.0.9"
+  },
+  "dependencies": {}
 }
