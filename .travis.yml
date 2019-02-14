@@ -1,7 +1,21 @@
 language: node_js
 node_js:
-  - stable
+  - 10
+branches:
+  only:
+    - master
 
+cache:
+  directories:
+    - ~/.npm
+    - ~/.cache
+
+install:
+  - npm install
+
+script:
+  - npm run generate
+  
 deploy:
   provider: pages
   local-dir: public
