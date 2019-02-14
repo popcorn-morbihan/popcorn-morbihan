@@ -14,7 +14,7 @@ Les objectifs de _Popcorn-Morbihan_ pour les développeurs freelances :
 ## Créer son profil
 
 - Fork ce dépôt
-- Déplacez vous dans la branche draft `git checkout draft`
+- Déplace-toi dans la branche draft `git checkout draft`
 - Ajoute ta fiche dans le dossier `content/persons` en prenant comme exemple le fichier `_example.md`. Le nom de ton fichier sera utilisé pour créer l'url de ton profil.
 - Ajoute ta photo dans le dossier `/public/images/photos` : **la photo doit faire 100ko maximum ⚠️**
 - Fait une _pull request_ avec pour titre _Nouveau profil : {ton prénom}_ .
