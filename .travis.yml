@@ -1,6 +1,7 @@
 deploy:
   provider: pages
   skip-cleanup: true
+  repo: popcorn-morbihan/popcorn-morbihan.github.io
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
   on:
