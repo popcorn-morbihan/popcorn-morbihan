@@ -11,3 +11,8 @@ Puisque que nous sommes développeurs, nous maintenons nous-même cette platefor
 Par ailleurs, puisque _Popcorn_ vous permet de contacter les freelances directement et n'intervient pas dans les échanges qui suivent, il n'y a pas de travail ni de frais liés à la mise en relation.
 
 Enfin, Popcorn n'est pas une entreprise mais une [association](https://opencollective.com/popcorn).
+
+## Découvrir les Popcorn de France:
+
+[Popcorn-Nantes](https://popcorn-nantes.github.io/)
+[Popcorn-Morbihan](https://popcorn-morbihan.github.io/)
