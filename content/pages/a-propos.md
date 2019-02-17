@@ -14,5 +14,5 @@ Enfin, Popcorn n'est pas une entreprise mais une [association](https://opencolle
 
 ## Découvrir les Popcorn de France:
 
-[Popcorn-Nantes](https://popcorn-nantes.github.io/)
-[Popcorn-Morbihan](https://popcorn-morbihan.github.io/)
+- [Popcorn-Nantes](https://popcorn-nantes.github.io/)
+- [Popcorn-Morbihan](https://popcorn-morbihan.github.io/)
