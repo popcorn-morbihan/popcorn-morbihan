@@ -1,3 +1,3 @@
 module.exports = {
-  location: "dans le Morbihan"
+  location: 'dans le Morbihan'
 }
