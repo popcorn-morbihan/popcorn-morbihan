@@ -68,7 +68,9 @@ Ces missions portent principalement sur le développement d'API Java respectant 
 
 Je suis adepte du TDD et du clean code mis en valeur par Robert Martin.
 
-Mes domaines de compétences sont : 
+Mes domaines de compétence sont : 
+* le recueil du besoin
+* de proposer des solutions techniques
 * le développement d'API en Java
 * la scalability
 * l'optimisation de base de données
